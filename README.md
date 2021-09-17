@@ -7,6 +7,8 @@ apt upgrade
 
 pkg install python
 
+pkg install git
+
 pkg install figlet
 
 pkg install ruby
